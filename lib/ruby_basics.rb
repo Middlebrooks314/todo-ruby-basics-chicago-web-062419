@@ -10,7 +10,7 @@ end
 
 def argue
   
-endrspec --fail-fast
+end 
 
 def greeting
 
